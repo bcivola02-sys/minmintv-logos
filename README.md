@@ -12,3 +12,6 @@ Logos are trademarks of their owners and are used only to identify the channels.
 
 Files named imported/tvg-* come from https://github.com/skydrome/tvg-logos (MIT, see imported/LICENSE-tvg-logos.txt). Logos remain trademarks of their owners.
 
+
+Files named `imported/tvlogos-*` come from https://github.com/jesmannstl/tvlogos (no licence stated). Logos remain trademarks of their owners.
+
